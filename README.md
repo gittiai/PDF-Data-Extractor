@@ -25,7 +25,6 @@ The system captures 100% of the original text while preserving exact wording.
 ## 📂 Project Structure
 .
 ├── main.py
-├── Output_chatgroq.xlsx 
 ├── requirements.txt
 ├── README.md
 
