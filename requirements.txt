@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-community
+langchain-groq
+pydantic
+python-dotenv
+pdfplumber
+pandas
+openpyxl
