@@ -1,7 +1,7 @@
 import streamlit as st
 from langchain_community.document_loaders import PDFPlumberLoader
 from langchain_core.prompts import PromptTemplate
-from langchain.output_parsers import PydanticOutputParser
+from langchain_core.output_parsers import PydanticOutputParser
 from langchain_groq import ChatGroq
 from pydantic import BaseModel, Field
 import pandas as pd
